@@ -3,10 +3,13 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "@capacitor/android": "4.6.3",
     "@capacitor/app": "4.1.1",
+    "@capacitor/assets": "^2.0.4",
     "@capacitor/core": "4.6.3",
     "@capacitor/haptics": "4.1.0",
     "@capacitor/keyboard": "4.1.1",
+    "@capacitor/network": "^4.1.0",
     "@capacitor/status-bar": "4.1.1",
     "@ionic/react": "^6.0.0",
     "@ionic/react-router": "^6.0.0",
